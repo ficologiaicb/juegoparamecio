@@ -1,0 +1,14 @@
+PARAMECIUM — AQUATIC SURVIVAL
+Aplicación web instalable (PWA).
+
+INSTALACIÓN:
+1. Sube el contenido de esta carpeta a un alojamiento HTTPS (por ejemplo, GitHub Pages o un hosting web).
+2. Abre la dirección HTTPS desde Chrome en Android.
+3. Menú ⋮ > Instalar aplicación o Añadir a pantalla de inicio.
+4. En iPhone/iPad, abre la web en Safari > Compartir > Añadir a pantalla de inicio.
+
+IMPORTANTE:
+- La instalación PWA requiere HTTPS (o localhost para pruebas).
+- Este paquete no es un APK nativo. Para generar un APK firmado se necesita un proyecto Android y proceso de compilación/firma.
+- La música se inicia tras pulsar Iniciar, por las restricciones de audio del navegador.
+- La descarga tóxica es una mecánica ficticia inspirada en toxicistos de otros ciliados; no es una capacidad conocida de Paramecium.
